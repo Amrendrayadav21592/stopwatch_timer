@@ -1,0 +1,1 @@
+This is the web stopwatch timer having pause , resume and reset option.
